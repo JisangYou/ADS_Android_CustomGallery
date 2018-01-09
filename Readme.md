@@ -1,7 +1,7 @@
 # ADS04 Android
 
 ## 수업 내용
-- MVC 디자인 패턴을 학습했음.
+- ContentResolver를 활용해 CustomGallery를 학습
 
 ## Code Review
 
